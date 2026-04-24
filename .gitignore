@@ -1,0 +1,5 @@
+certs/
+scan_results/
+__pycache__/
+*.pyc
+*.pyo
